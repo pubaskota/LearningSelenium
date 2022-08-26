@@ -33,8 +33,9 @@ public class array {
 	   System.out.println(names[i]); 
 	  } 
 	   
-	   
-	   
+	   //test
+	  
+	  
 	   
 	 } 
 	  
@@ -42,7 +43,9 @@ public class array {
 
 	
 		
-		
+	 public void testmethod() {
+		   System.out.println("test method to checkin on github");
+	   }
 		
 		
 		
