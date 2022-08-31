@@ -43,9 +43,7 @@ public class array {
 
 	
 		
-	 public void testmethod() {
-		   System.out.println("test method to checkin on github");
-	   }
+	 
 		
 		
 		
