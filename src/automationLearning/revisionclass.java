@@ -187,28 +187,7 @@ public class revisionclass {
 			   
 			  
 			  
-			 String city2 = "nagpur"; 
-			//  
-			// switch(city2) { 
-			//  
-			// case "pune": 
-			// case "nagpur": 
-			//  System.out.println("MH"); 
-			//  break; 
-			// case "indore": 
-			// case "bhopal": 
-			//  System.out.println("MP"); 
-			//  break; 
-			// case "jaipur": 
-			// case "udaipur": 
-			//  System.out.println("RJ"); 
-			//  break; 
-			//default: 
-			// System.out.println("incorrect"); 
-			//   
-			//   
-			// } 
-			//  
+			
 			  
 			  
 			  
