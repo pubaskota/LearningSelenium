@@ -36,6 +36,10 @@ public class AssingmentLocator1 {
 		boolean tshirtsTitle = driver.findElement(By.xpath("//*[@id=\"block_top_menu\"]/ul/li[1]/ul/li[1]/ul/li[1]/a"))
 				.isDisplayed();
 		System.out.println(tshirtsTitle);
+		
+		// get text
+		WebElement a= driver.findElement(By.xpath("(//a[@class='product-name'])[9]")); 
+		
 
 		// getting picture size and color
 
